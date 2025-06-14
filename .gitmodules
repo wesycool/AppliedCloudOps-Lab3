@@ -1,0 +1,6 @@
+[submodule "CloudOps_Module6_Lab3_SpringBootVulnerabilityRemediationOnK8s"]
+	path = CloudOps_Module6_Lab3_SpringBootVulnerabilityRemediationOnK8s
+	url = git@github.com:wesycool/CloudOps_Module6_Lab3_SpringBootVulnerabilityRemediationOnK8s.git
+[submodule "Module6_Class3_Repo3_JenkinsForSpringBootDockerBuild"]
+	path = Module6_Class3_Repo3_JenkinsForSpringBootDockerBuild
+	url = git@github.com:YorkU-SCS-Cloud-Ops/Module6_Class3_Repo3_JenkinsForSpringBootDockerBuild.git
